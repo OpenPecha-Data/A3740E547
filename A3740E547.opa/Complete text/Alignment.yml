@@ -1,0 +1,34 @@
+segment_sources:
+  P03686830:
+    type: origin_type
+    relation: translation
+    language: sa
+  P7748AB0A:
+    type: origin_type
+    relation: translation
+    language: de
+  P80AA1487:
+    type: origin_type
+    relation: translation
+    language: sa
+  P85C3C25C:
+    type: origin_type
+    relation: translation
+    language: bo
+  P405CADCD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a1e16bf5d81441a6b4883f2527fb457c:
+    P03686830: 57584dde880146be9b49f940f9f65743
+    P7748AB0A: 914d0bcf714c4869b4332eb5286f0ba8
+    P80AA1487: 8842a49b6a4345179810b1095eb9b9b0
+    P85C3C25C: 9621f6a8423345c1b2fd7cbd5ca3a9db
+    P405CADCD: 736c023f25624510be15735b1f9aba38
+  a854a0caa1ca4819bdc65ff131e0020e:
+    P03686830: 1020d1b8914c4f2c964557c61e2156e0
+    P7748AB0A: 75c3534cd1d741f7986fbc6717a5e90f
+    P80AA1487: cc26ef434cfd46ecbd14f06426eca2ac
+    P85C3C25C: 0b39cbc7d6814d15a5f58236fffc3217
+    P405CADCD: 926350a3414345bf9ac045954a1a573a
